@@ -1,3 +1,3 @@
 # 20220111VCSPYTVAK
-test
-labadiena
+
+Python mokymai
